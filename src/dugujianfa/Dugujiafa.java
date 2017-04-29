@@ -17,8 +17,8 @@ public class Dugujiafa {
 		map.put("5", 3);
 		map.put("3", 4);
 		map.put("4", 5);
-		
-		
+		map.put("6", 5);
+		map.put("7", 5);
 	
 			Set entrySet = map.entrySet();
 			
