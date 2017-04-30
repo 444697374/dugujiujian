@@ -19,9 +19,11 @@ public class Dugujiafa {
 		map.put("4", 5);
 		map.put("6", 5);
 		map.put("7", 5);
-	
+		map.put("8", 5);
+		map.put("9", 5);
+		map.put("0", 5);
 			Set entrySet = map.entrySet();
-			
+	
 			//Iterator iterator = entrySet.iterator();
 			
 		for(Object e:entrySet){
